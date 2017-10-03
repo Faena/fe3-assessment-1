@@ -1,0 +1,9 @@
+.bar {
+  fill: pink;
+}
+
+.bar:hover {
+  fill: purple;
+}
+
+}
